@@ -1,0 +1,86 @@
+.img-logo{
+    width:70px;
+}
+.boot-body{
+    background-image: url('bgimage.webp');
+}
+.item-nav{
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.item-nav:hover{
+    color:aqua;
+}
+.anchor{
+    margin-left:auto;
+}
+.box-left{
+    
+    color:white;
+    height:50px;
+    font-family: 'Happy Monkey','Encode Sans';
+    font-weight: bold;
+    text-align: right;
+    padding-left:180px ;
+}
+.description{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+.my-dp{
+    border-radius: 50%;
+    margin-top:10px;
+}
+.body-section{
+    height:60vh;
+}
+.aboutus{
+    text-align: center;
+    color:white;
+    font-weight: lighter;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.whatido{
+    text-align: center;
+    color:white;
+    font-weight: lighter;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.card1{
+    color:white;
+    border:2px white solid;
+    padding:20px;
+}
+.courseimg{
+    width:500px;
+}
+.courseheading{
+    padding-top: 10px;
+    text-align: center;
+}
+.coursedes{
+    text-align:center;
+}
+.card1:hover{
+    border:3px solid green;
+    margin-top:10px;
+}
+.end{
+    color:white;
+    text-align: center;
+}
+.insta,.utube,.telegram{
+    height:50px;
+    margin-left:20px;
+    text-align: center;
+}.st-h{
+    color:white;
+    padding-left:300px;
+    text-decoration: underline;
+}.contact-h4{
+    text-decoration: underline;
+}
